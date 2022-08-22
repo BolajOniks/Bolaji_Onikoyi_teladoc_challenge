@@ -12,7 +12,7 @@ Steps:
 3. Verify password field visibility icon is displayed
 4. Verify 'new account creation' text is displayed with text: "Create a new account"
 5. Verify 'Don't have account?' text is displayed with text: "Don't have account?"
-6. Verify 'Forgot Password?' text is displayed with text: "DForgot Password?"
+6. Verify 'Forgot Password?' text is displayed with text: "Forgot Password?"
 
 Scenario 2 - Log into application
 
