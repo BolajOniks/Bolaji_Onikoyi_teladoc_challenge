@@ -4,7 +4,8 @@ https://github.com/sachintha00/Android-Login-UI/blob/main/app/src/androidTest/ja
 
 
 #Testcases added
-Scenario - Verify login page UI objects / elements are displayed as expected
+
+Scenario 1 - Verify login page UI objects / elements are displayed as expected
 
 Steps:
 1. Launch application
