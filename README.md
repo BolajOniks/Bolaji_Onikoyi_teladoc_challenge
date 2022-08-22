@@ -1,12 +1,28 @@
-# Android-Login-UI
-Simple Mobile Login UI Design Android Studio with Java and XML
+#Original Sample Link:
 
-The constraint layout used here.
+https://github.com/sachintha00/Android-Login-UI/blob/main/app/src/androidTest/java/com/example/loginui/ExampleInstrumentedTest.java
 
-Some screen-shots running through the Pixel_2_API_25 emulator👇
 
-![Screenshot_19](https://user-images.githubusercontent.com/80079235/130822819-38b383be-9fe2-4263-a35a-b11dd6c46e1d.png)
+#Testcases added
+Scenario - Verify login page UI objects / elements are displayed as expected
 
-![Screenshot_20](https://user-images.githubusercontent.com/80079235/130822994-925d8371-ff50-4050-b73b-10e8f0852786.png)
+Steps:
+1. Launch application
+2. Verify header text is displayed with text:"MOBILE APPLICATION DEVELOPMENT"
+3. Verify password field visibility icon is displayed
+4. Verify 'new account creation' text is displayed with text: "Create a new account"
+5. Verify 'Don't have account?' text is displayed with text: "Don't have account?"
+6. Verify 'Forgot Password?' text is displayed with text: "DForgot Password?"
 
-![Screenshot_21](https://user-images.githubusercontent.com/80079235/130823018-c45587e4-61cd-4079-97c9-ba7071e20210.png)
+Scenario 2 - Log into application
+
+Steps:
+1. Launch application
+2. Enter username in username field (Username: Bolaji Automation)
+3. Enter password in password field (password: Teladoc Health)
+4. Click on 'login' button
+
+#Modified Testcase Location 
+
+Link: https://github.com/BolajOniks/Bolaji_Onikoyi_teladoc_challenge/blob/master/app/src/androidTest/java/com/example/loginui/ExampleInstrumentedTest.java
+
